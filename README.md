@@ -1,4 +1,4 @@
-# Telecom: Call-Center-Data-Analysis
+# Telecom: Call-Center-Data-Analysis using Pyton and PostgreSQL
 This Repository will focus on Telecom - call center data and related important KPI parameters associated with it.
 
 ✔ Data Set: Call center data set of Telecom domain
